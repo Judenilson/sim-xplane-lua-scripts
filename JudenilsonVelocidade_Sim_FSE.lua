@@ -1,4 +1,5 @@
--- Created by Judenilson Araujo --
+-- Created by Judenilson Araujo - www.judenilson.com.br
+-- This Script is to change the speed of the simulator using so one keyboard key. Change 1x to 4x in one step.
 
 dataref("xp_velsim","sim/time/ground_speed","writable")
 

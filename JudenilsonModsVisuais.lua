@@ -1,3 +1,6 @@
+-- Created by Judenilson Araujo - www.judenilson.com.br
+-- This script change some dataref, to increase more visual quality in simulator.
+
 set("sim/private/controls/fbo/shadow_cam_size", 4096)
 set("sim/private/controls/shadow/csm_split_exterior", 2.0)
 set("sim/private/controls/shadow/csm_split_interior", 4.0)

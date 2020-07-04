@@ -1,4 +1,4 @@
--- Created by Judenilson Araujo
+-- Created by Judenilson Araujo - www.judenilson.com.br
 -- Change the Carenado SR22 fuel tank automatic
 
 dataref("selectedTank", "sim/cockpit/engine/fuel_tank_selector", "writable")
